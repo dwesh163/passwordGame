@@ -18,7 +18,7 @@ export default function Index() {
 		<>
 			<Head>
 				<title>PasswordGame</title>
-				<meta name="description" content="An app to listen music" />
+				<meta name="description" content="Can you find the password ??" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
 				<link rel="icon" href="/favicon.ico" />
 			</Head>
