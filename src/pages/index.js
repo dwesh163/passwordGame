@@ -33,7 +33,7 @@ export default function Index() {
 						</>
 					) : (
 						<>
-							<img src="https://i.giphy.com/Ju7l5y9osyymQ.webp" className="w-[95vh] mx-auto" />
+							<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHQzdHU3d2lmY2x1MTZwdzNveTJiY3ZpemJ0MDFnc3Uxdm1nMzRkcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/200.gif" className="w-[95vh] mx-auto" />
 						</>
 					)}
 				</div>
